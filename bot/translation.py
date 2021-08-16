@@ -4,9 +4,9 @@
 
 class Translation(object):
     
-    START_TEXT = """<b>Hey {}!!</b>
+    START_TEXT = """<b>Hey 😎 {}!!</b>
            👑Requestprime👑
-<i>Am Professor ....😉
+<i>Am Professor
 
 I can provide you movies you want😎
 Just join this group and write the movie name correctly
