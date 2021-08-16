@@ -20,4 +20,4 @@ Its not for you sir
 """
     
     ABOUT_TEXT = """<b>➥
-Sorry nothing for you 😔
+Sorry nothing for you 
