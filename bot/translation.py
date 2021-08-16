@@ -5,11 +5,11 @@
 class Translation(object):
     
     START_TEXT = """<b>Hey {}!!</b>
-<i>Am Just A Advance Auto Filter Bot....😉
+           👑Requestprime👑
+<i>Am Professor ....😉
 
-Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
-
-For More Details Click Help Button Below..
+I can provide you movies you want😎
+Just join this group and write the movie name correctly
 @request_moviesorseries 
 </i>"""    
     
